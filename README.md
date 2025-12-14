@@ -6,6 +6,17 @@ By leveraging **Vercel AI tools**, I was able to quickly iterate on design ideas
 
 To explore more features such as purchasing, restocking, and admin-specific actions, please **log in to the application** using the deployed URL below.
 
+---
+
+### Admin Login Credentials (For Testing)
+
+Use the following credentials to log in as an **Admin** and test all admin-only features such as adding, deleting, and restocking sweets.
+
+- **Email:** `admin@admin.com`
+- **Password:** `iamadmin`
+
+> ⚠️ These credentials are for testing/demo purposes only.
+
 ### Live Deployment
 
 - **Deployed Website:** https://sweetmanagementharshbharti.vercel.app/
