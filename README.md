@@ -65,3 +65,37 @@ Below are screenshots of the final frontend application, arranged in a logical u
 ---
 
 This frontend demonstrates how AI-assisted UI generation, when combined with careful review and customization, can produce a **beautifully crafted and highly functional user experience**.
+
+### Frontend Setup (Local)
+
+Before starting the frontend, please set up and run the backend by following the instructions provided in the backend README:
+
+- **Backend GitHub Repository:** https://github.com/HarshBharti2601/Sweet_Management
+
+
+Follow the steps below to run the frontend locally. 
+
+1. **Install dependencies**
+
+```bash
+npm install
+```
+
+2. **Replace the deployed API URL with your local backend route.**
+
+```bash
+const API_URL = "http://localhost:3000"
+```
+
+3. **Run the command:**
+   
+```bash
+npm run dev
+```
+
+4. **The frontend will be available at:**
+
+```bash
+http://localhost:5173
+```
+
